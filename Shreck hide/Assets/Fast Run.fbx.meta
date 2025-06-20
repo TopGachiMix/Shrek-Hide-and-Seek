@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 93016e20fdcd34d4a998b323fd843fea
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      internalID: -203655887218126122
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: puss:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: puss:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Fast Run(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: puss:m_puss1_1
+      parentName: Fast Run(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: puss:m_puss1_0
+      parentName: Fast Run(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: puss:Hips
+      parentName: Fast Run(Clone)
+      position: {x: -1.1641532e-10, y: 0.06949722, z: -0.0017839097}
+      rotation: {x: -0.000000023283064, y: -0.00000001164153, z: -0.000000005820765, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: puss:Spine
+      parentName: puss:Hips
+      position: {x: -0, y: 0.0060953284, z: 0.00005238169}
+      rotation: {x: 0.0042967554, y: 2.5007552e-11, z: 0.000000005820711, w: 0.99999076}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: puss:Spine1
+      parentName: puss:Spine
+      position: {x: -0, y: 0.0071114735, z: -1.5321943e-12}
+      rotation: {x: 0.0000000121071935, y: 0.000000008743332, z: 0.0000000013801075, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: puss:Spine2
+      parentName: puss:Spine1
+      position: {x: -0, y: 0.008127398, z: 7.469081e-14}
+      rotation: {x: -0, y: 2.5010216e-11, z: 0.000000002910276, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: puss:Neck
+      parentName: puss:Spine2
+      position: {x: -0, y: 0.009143327, z: -8.163654e-11}
+      rotation: {x: -0.004296721, y: 0.000000004337398, z: -0.00000000656706, w: 0.99999076}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: puss:Head
+      parentName: puss:Neck
+      position: {x: -0, y: 0.0056830407, z: -0.0016646691}
+      rotation: {x: -0.000000023283064, y: -0.000000002910383, z: 0.0000000058207656, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: puss:HeadTop_End
+      parentName: puss:Head
+      position: {x: -0, y: 0.017484723, z: -0.005121602}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: puss:LeftShoulder
+      parentName: puss:Spine2
+      position: {x: -0.003698754, y: 0.006606105, z: 0.000021908343}
+      rotation: {x: 0.57438904, y: -0.41374156, z: 0.57182, w: 0.41462892}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: puss:LeftArm
+      parentName: puss:LeftShoulder
+      position: {x: -4.0387524e-12, y: 0.0090121105, z: -3.8641473e-10}
+      rotation: {x: -0.12738957, y: -0.0016994923, z: 0.004777372, w: 0.9918399}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000005}
+    - name: puss:LeftForeArm
+      parentName: puss:LeftArm
+      position: {x: 1.569715e-11, y: 0.014444975, z: -1.2440991e-10}
+      rotation: {x: -0.030002628, y: 0.009468194, z: -0.037034243, w: 0.9988187}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000006}
+    - name: puss:LeftHand
+      parentName: puss:LeftForeArm
+      position: {x: 2.4859118e-10, y: 0.013722494, z: -6.320632e-11}
+      rotation: {x: 0.009130627, y: -0.0015901849, z: -0.17156753, w: 0.9851288}
+      scale: {x: 1, y: 1.0000005, z: 0.99999994}
+    - name: puss:LeftHandIndex1
+      parentName: puss:LeftHand
+      position: {x: 6.7188484e-11, y: 0.0025707637, z: -5.2549503e-11}
+      rotation: {x: 0.04754276, y: -0.72881275, z: 0.050866857, w: 0.6811639}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000006}
+    - name: puss:LeftHandIndex2
+      parentName: puss:LeftHandIndex1
+      position: {x: -5.6369798e-11, y: 0.002678738, z: 2.6734014e-12}
+      rotation: {x: 0.1070935, y: 0.00000032782535, z: 0.005014793, w: 0.99423635}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000002}
+    - name: puss:LeftHandIndex3
+      parentName: puss:LeftHandIndex2
+      position: {x: 0.00006053212, y: 0.004375476, z: -0.0012929818}
+      rotation: {x: -0.000000014901145, y: -0.00000014901156, z: 2.6645336e-15, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: puss:LeftHandIndex4
+      parentName: puss:LeftHandIndex3
+      position: {x: 0.00021921638, y: 0.00238826, z: -0.0007596709}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: puss:RightShoulder
+      parentName: puss:Spine2
+      position: {x: 0.003698754, y: 0.006606103, z: 0.00002170005}
+      rotation: {x: 0.5742345, y: 0.41401753, z: -0.5719785, w: 0.41434872}
+      scale: {x: 1, y: 0.9999999, z: 0.99999976}
+    - name: puss:RightArm
+      parentName: puss:RightShoulder
+      position: {x: 4.0132914e-12, y: 0.0090121105, z: -3.86415e-10}
+      rotation: {x: 0.12736166, y: -0.0016761422, z: 0.005087942, w: -0.9918419}
+      scale: {x: 1.0000005, y: 1.000001, z: 1.0000002}
+    - name: puss:RightForeArm
+      parentName: puss:RightArm
+      position: {x: -2.542692e-11, y: 0.01444402, z: 2.3305305e-10}
+      rotation: {x: 0.030000763, y: 0.009337612, z: -0.036986277, w: -0.99882174}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000007}
+    - name: puss:RightHand
+      parentName: puss:RightForeArm
+      position: {x: -1.45048e-10, y: 0.013703813, z: -1.3490802e-10}
+      rotation: {x: -0.0012459325, y: -0.000030866355, z: 0.024802528, w: 0.9996916}
+      scale: {x: 1, y: 0.9999998, z: 1.0000004}
+    - name: puss:RightHandIndex1
+      parentName: puss:RightHand
+      position: {x: 2.0492929e-11, y: 0.003405947, z: -6.093628e-11}
+      rotation: {x: -0.019088894, y: 0.0007183775, z: -0.03760319, w: 0.9991102}
+      scale: {x: 1.0000005, y: 1.000001, z: 1.0000007}
+    - name: puss:RightHandIndex2
+      parentName: puss:RightHandIndex1
+      position: {x: -3.1010857e-11, y: 0.0025869813, z: 1.07946194e-10}
+      rotation: {x: -0, y: -0, z: 7.6397555e-10, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000004}
+    - name: puss:RightHandIndex3
+      parentName: puss:RightHandIndex2
+      position: {x: 0.00013441326, y: 0.003777948, z: 0.00025950925}
+      rotation: {x: -0.012656369, y: -0.00026025754, z: 0.01034425, w: 0.99986637}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: puss:RightHandIndex4
+      parentName: puss:RightHandIndex3
+      position: {x: 0.00024277053, y: 0.002221838, z: 0.00035294122}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: puss:RightUpLeg
+      parentName: puss:Hips
+      position: {x: 0.010928768, y: -0.0033862877, z: -0.000020499676}
+      rotation: {x: 0.000000046566548, y: -0.00014425023, z: 1, w: -0.0000000029036669}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: puss:RightLeg
+      parentName: puss:RightUpLeg
+      position: {x: -0, y: 0.025313927, z: 1.8314773e-13}
+      rotation: {x: -0.018553516, y: 0.00036790004, z: -0.019819273, w: 0.9996314}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1.0000001}
+    - name: puss:RightFoot
+      parentName: puss:RightLeg
+      position: {x: -5.0523696e-11, y: 0.030460676, z: 5.6357474e-11}
+      rotation: {x: 0.4622338, y: 0.008155707, z: -0.0042514936, w: 0.88671046}
+      scale: {x: 1.0000011, y: 1.0000006, z: 1.0000007}
+    - name: puss:RightToeBase
+      parentName: puss:RightFoot
+      position: {x: -1.4314535e-11, y: 0.01405056, z: -1.5871238e-10}
+      rotation: {x: 0.29703814, y: 0.023471184, z: -0.0073038037, w: 0.9545492}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000002}
+    - name: puss:RightToe_End
+      parentName: puss:RightToeBase
+      position: {x: -1.6368995e-12, y: 0.0056236256, z: 6.592887e-12}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: puss:LeftUpLeg
+      parentName: puss:Hips
+      position: {x: -0.010928768, y: -0.0033862877, z: 0.000017687827}
+      rotation: {x: 0.0000000101857145, y: 0.000107171945, z: 1, w: -0.000000005821857}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000002}
+    - name: puss:LeftLeg
+      parentName: puss:LeftUpLeg
+      position: {x: -0, y: 0.025313927, z: -3.0833718e-13}
+      rotation: {x: -0.017537296, y: -0.00034771237, z: 0.019819986, w: 0.9996497}
+      scale: {x: 0.9999997, y: 0.99999964, z: 1.0000001}
+    - name: puss:LeftFoot
+      parentName: puss:LeftLeg
+      position: {x: -5.2629005e-11, y: 0.030457884, z: -3.1170972e-11}
+      rotation: {x: 0.4912811, y: -0.006951169, z: 0.0039209034, w: 0.8709645}
+      scale: {x: 1, y: 0.9999999, z: 1.0000002}
+    - name: puss:LeftToeBase
+      parentName: puss:LeftFoot
+      position: {x: -1.0856682e-12, y: 0.01549276, z: 1.9924509e-10}
+      rotation: {x: 0.2670209, y: -0.022422537, z: 0.006214687, w: 0.96340984}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000002}
+    - name: puss:LeftToe_End
+      parentName: puss:LeftToeBase
+      position: {x: -9.038403e-13, y: 0.006517888, z: 1.4222629e-11}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
